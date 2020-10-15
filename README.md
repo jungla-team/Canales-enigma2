@@ -68,5 +68,5 @@ En la actualidad realizamos 3 listas diferentes ordenadas mediante favoritos:
 	</tbody>
 </table>
 
-<p>Sample Text.</p>
+
 
