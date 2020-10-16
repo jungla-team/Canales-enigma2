@@ -19,7 +19,7 @@ En la actualidad realizamos 3 listas diferentes ordenadas mediante favoritos:
 ### Favoritos lista canales Astra 19.2
 
 
-<table align="center" border="1" cellpadding="1" cellspacing="1" style="width:500px;">
+<table align="left" border="1" cellpadding="1" cellspacing="1" style="width:500px;">
 	<tbody>
 		<tr>
 			<td>Favorito Movistar+ IPLUSHD</td>
