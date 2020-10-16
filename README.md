@@ -1,7 +1,7 @@
 # Canales Enigma2 <a href="https://www.paypal.me/jungleteam" rel="nofollow"><img src="https://camo.githubusercontent.com/d5d24e33e2f4b6fe53987419a21b203c03789a8f/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f446f6e6174652d50617950616c2d677265656e2e737667" alt="Donate" data-canonical-src="https://img.shields.io/badge/Donate-PayPal-green.svg" style="max-width:100%;"></a></h1>
 
-* Telegram soporte: 
-* web soporte: 
+* Telegram soporte: https://t.me/joinchat/AFo2KEfzM5Tk7y3VgcqIOA
+* web soporte: https://jungle-team.com/
 
 Lista de canales de televisión, y radio, para receptores enigma2, que se emiten a traves de los satelites:
 
@@ -122,3 +122,34 @@ En la actualidad realizamos 3 listas diferentes ordenadas mediante favoritos:
 		</tr>
 	</tbody>
 </table>
+
+## Instalacion Canales
+
+En la actualidad la lista canales enigma2 que realizamos en Jungle-Team la podemos instalar de diferentes metodos, por lo que podemos elegir que metodo se adapta mas a nuestras necesidades.
+
+### Utilidad Jungle-Script
+
+Un script que instalamos en nuestro receptor y que su utilidad fundamental es que la actualizacion de la lista canales es automatica, para mas informacion podeis seguir el manual:
+
+* https://jungle-team.com/junglescript-lista-canales-y-picon-enigma2-movistar/
+
+### Programa Pc editor de canales
+
+Nos descargamos la lista de canales en nuestro pc, y la introducimos en nuestro receptor a traves de cualquier programa de edicion de canales de los que existen, os dejamos algunos manuales:
+
+* https://jungle-team.com/dreamboxedit-lista-canales-enigma2/
+
+### Source feed Jungle-Team
+
+* Proximamente
+
+## Creacion IPK lista canales
+
+Proximamente
+
+## Colaboracion
+
+Jungle-Team realiza los diferentes proyectos de manera gratuita y opensource para quien los quiera usar, es decir su uso es gratuito, no obstante si desea colaborar para el mantenimiento de los Servidores que usamos para el desarrollo de las distintas utilidades como en el caso de listas canales 
+
+<p><a href="https://www.paypal.me/jungleteam" target="_blank"><img alt="" src="https://i.ibb.co/tJw3h8L/donar.png" style="width: 111px; height: 200px;" /></a></p>
+
