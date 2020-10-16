@@ -18,55 +18,107 @@ En la actualidad realizamos 3 listas diferentes ordenadas mediante favoritos:
 
 ### Favoritos lista canales Astra 19.2
 
-
-<table align="left" border="1" cellpadding="1" cellspacing="1" style="width:500px;">
+<table align="center" border="1" cellpadding="1" cellspacing="1" style="width:600px;">
 	<tbody>
 		<tr>
-			<td>Favorito Movistar+ IPLUSHD</td>
+			<td><span style="color:#0000CD;"><strong>Favorito Movistar+ IPLUSHD</strong></span></td>
 			<td>Ordenacion y numeracion oficial</td>
 		</tr>
 		<tr>
-			<td>Libres</td>
+			<td><span style="color:#0000CD;"><strong>Libres</strong></span></td>
 			<td>Canales sin codificar</td>
 		</tr>
 		<tr>
-			<td>Laliga</td>
+			<td><span style="color:#0000CD;"><strong>Laliga</strong></span></td>
 			<td>Canales que transmiten Liga futbol espa&ntilde;ola</td>
 		</tr>
 		<tr>
-			<td>Champions League</td>
+			<td><span style="color:#0000CD;"><strong>Champions League</strong></span></td>
 			<td>Canales que emiten competicion Champios league</td>
 		</tr>
 		<tr>
-			<td>Moto GP</td>
+			<td><span style="color:#0000CD;"><strong>Moto GP</strong></span></td>
 			<td>Canales que emiten campeonato de Mots</td>
 		</tr>
 		<tr>
-			<td>Deportes</td>
+			<td><span style="color:#0000CD;"><strong>Deportes</strong></span></td>
 			<td>Canales deportivos separados por plataformas</td>
 		</tr>
 		<tr>
-			<td>Peliculas Series</td>
-			<td>Canales&nbsp; peliculas y series separados por plataformas</td>
+			<td><span style="color:#0000CD;"><strong>Peliculas Series</strong></span></td>
+			<td>Canales&nbsp; peliculas y series separados por idioma</td>
 		</tr>
 		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td><span style="color:#0000CD;"><strong>Infantiles</strong></span></td>
+			<td>Canales infantiles separados por plataformas</td>
 		</tr>
 		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td><span style="color:#0000CD;"><strong>Musica</strong></span></td>
+			<td>Canales Musica separados por platafomra</td>
 		</tr>
 		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td><span style="color:#0000CD;"><strong>Adultos</strong></span></td>
+			<td>Canales pornograficos separados por plataforma</td>
 		</tr>
 		<tr>
-			<td>&nbsp;</td>
-			<td>&nbsp;</td>
+			<td><span style="color:#0000CD;"><strong>UHD-H265</strong></span></td>
+			<td>Canales en emision 4K</td>
+		</tr>
+		<tr>
+			<td><span style="color:#0000CD;"><strong>HBBTV</strong></span></td>
+			<td>Canales hbtv que emiten con posibilidad de boton azul</td>
+		</tr>
+		<tr>
+			<td><span style="color:#0000CD;"><strong>Radios</strong></span></td>
+			<td>Canales de radio que emiten en satelite</td>
+		</tr>
+		<tr>
+			<td><span style="color:#0000CD;"><strong>Canales Test Movistar</strong></span></td>
+			<td>Canales en test plataforma Movistar</td>
+		</tr>
+		<tr>
+			<td><span style="color:#0000CD;"><strong>Sky Alemania</strong></span></td>
+			<td>Ordenacion oficial guia de eventos</td>
+		</tr>
+		<tr>
+			<td><span style="color:#0000CD;"><strong>Canal Sat Francia</strong></span></td>
+			<td>Ordenacion oficial guia de eventos</td>
+		</tr>
+		<tr>
+			<td><span style="color:#0000CD;"><strong>TeleSat</strong></span></td>
+			<td>Ordenacion oficial guia de eventos</td>
+		</tr>
+		<tr>
+			<td><span style="color:#0000CD;"><strong>ORF Digital</strong></span></td>
+			<td>Ordenacion oficial guia de eventos</td>
+		</tr>
+		<tr>
+			<td><span style="color:#0000CD;"><strong>ARD Digital</strong></span></td>
+			<td>Ordenacion oficial guia de eventos</td>
+		</tr>
+		<tr>
+			<td><span style="color:#0000CD;"><strong>TNT SAT</strong></span></td>
+			<td>Ordenacion oficial guia de eventos</td>
+		</tr>
+		<tr>
+			<td><span style="color:#0000CD;"><strong>Austria Sat HD</strong></span></td>
+			<td>Ordenacion oficial guia de eventos</td>
+		</tr>
+		<tr>
+			<td><span style="color:#0000CD;"><strong>Canal Digitaal</strong></span></td>
+			<td>Ordenacion oficial guia de eventos</td>
+		</tr>
+		<tr>
+			<td><span style="color:#0000CD;"><strong>ZDF Vision</strong></span></td>
+			<td>Ordenacion oficial guia de eventos</td>
+		</tr>
+		<tr>
+			<td><span style="color:#0000CD;"><strong>MTV Network</strong></span></td>
+			<td>Ordenacion oficial guia de eventos</td>
+		</tr>
+		<tr>
+			<td><span style="color:#0000CD;"><strong>HD+</strong></span></td>
+			<td>Ordenacion oficial guia de eventos</td>
 		</tr>
 	</tbody>
 </table>
-
-
-
