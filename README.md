@@ -153,7 +153,7 @@ Proximamente
 
 ## Colaboracion
 
-Jungle-Team realiza los diferentes proyectos de manera gratuita y opensource para quien los quiera usar, es decir su uso es gratuito, no obstante si desea colaborar para el mantenimiento de los Servidores que usamos para el desarrollo de las distintas utilidades como en el caso de listas canales 
+Jungle-Team realiza los diferentes proyectos de manera gratuita y opensource para quien los quiera usar, es decir su uso es gratuito, no obstante si desea colaborar para el mantenimiento de los Servidores que usamos para el desarrollo de las distintas utilidades como en el caso de listas canales, puede realizarlo pulsando sobre el icono de donar.
 
 <p><a href="https://www.paypal.me/jungleteam" target="_blank"><img alt="" src="https://i.ibb.co/tJw3h8L/donar.png" style="width: 111px; height: 200px;" /></a></p>
 
