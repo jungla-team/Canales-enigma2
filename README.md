@@ -135,7 +135,7 @@ En la actualidad la lista canales enigma2 que realizamos en Jungle-Team la podem
 
 Un script que instalamos en nuestro receptor y que su utilidad fundamental es que la actualizacion de la lista canales es automatica, para mas informacion podeis seguir el manual:
 
-* https://jungle-team.com/junglescript-lista-canales-y-picon-enigma2-movistar/
+* https://jungle-team.com/junglescript-5-0-auto-instalador-lista-canales-y-picon-enigma2/
 
 ### Programa Pc editor de canales
 
