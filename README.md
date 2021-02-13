@@ -7,12 +7,15 @@ Lista de canales de televisión, y radio, para receptores enigma2, que se emiten
 
 * Astra 19.2º
 * Hotbird 13º
+* Hispasat 30ª
 
 La ordenacion de la lista canales esta especialmente enfocado a España, en la que se cuida especialmente la ordenacion Oficial de la plataforma Movistar+.
 
 ## Ordenacion canales
 En la actualidad realizamos 3 listas diferentes ordenadas mediante favoritos:
+* Astra 19.2 + Hotbird 13 + Hispasat 30
 * Astra 19.2 + Hotbird 13
+* Astra 19.2 + Hispasat 30
 * Astra 19.2
 * Astra 19.2 para antenas comunitarias
 
