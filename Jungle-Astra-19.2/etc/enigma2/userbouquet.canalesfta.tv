@@ -303,29 +303,3 @@
 #DESCRIPTION ::::::::::IDIOMA POLACO::::::::::
 #SERVICE 1:64:1C:0:0:0:0:0:0:0::::::::::::BRASIL::::::::::
 #DESCRIPTION ::::::::::BRASIL::::::::::
-#SERVICE 1:64:1D:0:0:0:0:0:0:0::----------HORBIT 13º----------
-#DESCRIPTION ----------HORBIT 13º----------
-#SERVICE 1:64:1E:0:0:0:0:0:0:0::::::::::::IDIOMA POLACO::::::::::
-#DESCRIPTION ::::::::::IDIOMA POLACO::::::::::
-#SERVICE 1:64:1F:0:0:0:0:0:0:0::::::::::::IDIOMA ITALIA::::::::::
-#DESCRIPTION ::::::::::IDIOMA ITALIA::::::::::
-#SERVICE 1:64:20:0:0:0:0:0:0:0::::::::::::IDIOMA ARABES::::::::::
-#DESCRIPTION ::::::::::IDIOMA ARABES::::::::::
-#SERVICE 1:64:21:0:0:0:0:0:0:0::::::::::::IDIOMA INGLES::::::::::
-#DESCRIPTION ::::::::::IDIOMA INGLES::::::::::
-#SERVICE 1:64:22:0:0:0:0:0:0:0::::::::::::IDIOMA ALEMAN::::::::::
-#DESCRIPTION ::::::::::IDIOMA ALEMAN::::::::::
-#SERVICE 1:64:23:0:0:0:0:0:0:0::::::::::::IDIOMA FRANCES::::::::::
-#DESCRIPTION ::::::::::IDIOMA FRANCES::::::::::
-#SERVICE 1:64:24:0:0:0:0:0:0:0::::::::::::IDIOMA VIETNAM::::::::::
-#DESCRIPTION ::::::::::IDIOMA VIETNAM::::::::::
-#SERVICE 1:64:25:0:0:0:0:0:0:0::::::::::::IDIOMA TURQUIA::::::::::
-#DESCRIPTION ::::::::::IDIOMA TURQUIA::::::::::
-#SERVICE 1:64:26:0:0:0:0:0:0:0::::::::::::IDIOMA JAPON::::::::::
-#DESCRIPTION ::::::::::IDIOMA JAPON::::::::::
-#SERVICE 1:64:27:0:0:0:0:0:0:0::::::::::::IDIOMA RUSIA::::::::::
-#DESCRIPTION ::::::::::IDIOMA RUSIA::::::::::
-#SERVICE 1:64:28:0:0:0:0:0:0:0::::::::::::IDIOMA OTROS::::::::::
-#DESCRIPTION ::::::::::IDIOMA OTROS::::::::::
-#SERVICE 1:64:29:0:0:0:0:0:0:0::----HISPASAT----
-#DESCRIPTION ----HISPASAT----
