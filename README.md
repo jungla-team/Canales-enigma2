@@ -148,7 +148,7 @@ Nos descargamos la lista de canales en nuestro pc, y la introducimos en nuestro 
 
 ### Source feed Jungle-Team
 
-* Proximamente
+* https://jungle-team.com/jungle-feed-repositorio-paquetes-jungle-team/
 
 ## Creacion IPK lista canales
 
