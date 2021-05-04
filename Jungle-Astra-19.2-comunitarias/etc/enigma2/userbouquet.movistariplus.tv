@@ -186,27 +186,17 @@
 #SERVICE 1:0:1:7568:412:1:C00000:0:0:0:
 #SERVICE 1:0:1:7569:412:1:C00000:0:0:0:
 #SERVICE 1:0:1:7695:41E:1:C00000:0:0:0:
-#SERVICE 1:832:d:0:0:0:0:0:0:0::[Hidden Marker]
-#DESCRIPTION [Hidden Marker]
 #SERVICE 1:832:d:0:0:0:0:0:0:0:
-#SERVICE 1:832:d:0:0:0:0:0:0:0::[Hidden Marker]
-#DESCRIPTION [Hidden Marker]
-#SERVICE 1:832:d:0:0:0:0:0:0:0::[Hidden Marker]
-#DESCRIPTION [Hidden Marker]
-#SERVICE 1:832:d:0:0:0:0:0:0:0::[Hidden Marker]
-#DESCRIPTION [Hidden Marker]
-#SERVICE 1:832:d:0:0:0:0:0:0:0::[Hidden Marker]
-#DESCRIPTION [Hidden Marker]
-#SERVICE 1:832:d:0:0:0:0:0:0:0::[Hidden Marker]
-#DESCRIPTION [Hidden Marker]
-#SERVICE 1:832:d:0:0:0:0:0:0:0::[Hidden Marker]
-#DESCRIPTION [Hidden Marker]
-#SERVICE 1:832:d:0:0:0:0:0:0:0::[Hidden Marker]
-#DESCRIPTION [Hidden Marker]
-#SERVICE 1:832:d:0:0:0:0:0:0:0::[Hidden Marker]
-#DESCRIPTION [Hidden Marker]
-#SERVICE 1:832:d:0:0:0:0:0:0:0::[Hidden Marker]
-#DESCRIPTION [Hidden Marker]
+#SERVICE 1:832:d:0:0:0:0:0:0:0:
+#SERVICE 1:832:d:0:0:0:0:0:0:0:
+#SERVICE 1:832:d:0:0:0:0:0:0:0:
+#SERVICE 1:832:d:0:0:0:0:0:0:0:
+#SERVICE 1:832:d:0:0:0:0:0:0:0:
+#SERVICE 1:832:d:0:0:0:0:0:0:0:
+#SERVICE 1:832:d:0:0:0:0:0:0:0:
+#SERVICE 1:832:d:0:0:0:0:0:0:0:
+#SERVICE 1:832:d:0:0:0:0:0:0:0:
+#SERVICE 1:832:d:0:0:0:0:0:0:0:
 #SERVICE 1:64:F:0:0:0:0:0:0:0::----FUTBOL----
 #DESCRIPTION ----FUTBOL----
 #SERVICE 1:0:1:77C9:40A:1:C00000:0:0:0:
