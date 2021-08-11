@@ -1,11 +1,9 @@
 #NAME hbbtv
-#SERVICE 1:64:71:0:0:0:0:0:0:0::****ESPAÑOLES****
+#SERVICE 1:64:39:0:0:0:0:0:0:0::****ESPAÑOLES****
 #DESCRIPTION ****ESPAÑOLES****
-#SERVICE 1:64:72:0:0:0:0:0:0:0::****Alemania****
+#SERVICE 1:64:3A:0:0:0:0:0:0:0::****Alemania****
 #DESCRIPTION ****Alemania****
-#SERVICE 1:64:73:0:0:0:0:0:0:0::****AUSTRIA****
+#SERVICE 1:64:3B:0:0:0:0:0:0:0::****AUSTRIA****
 #DESCRIPTION ****AUSTRIA****
-#SERVICE 1:64:74:0:0:0:0:0:0:0::****SUIZOS****
+#SERVICE 1:64:3C:0:0:0:0:0:0:0::****SUIZOS****
 #DESCRIPTION ****SUIZOS****
-#SERVICE 1:64:75:0:0:0:0:0:0:0::----------HORBIT 13º----------
-#DESCRIPTION ----------HORBIT 13º----------
