@@ -11,8 +11,7 @@ Lista de canales de televisión, y radio, que se emiten a traves del Satelite **
 
 La descarga de las **listas de canales es gratuita**, no obstante si te gustan y deseas colaborar Para el mantenimiento de los servidores y Blog que gestiona jungle-team puedes realizar una donacion:
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/03969ac6f01c35f8679f023614f0b731e7d3b32eb109d9d3.png)(https://www.paypal.me/jungleteam)
-
+[![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/03969ac6f01c35f8679f023614f0b731e7d3b32eb109d9d3.png)](https://www.paypal.me/jungleteam)
 ---
 
 ## Formato lista Canales
