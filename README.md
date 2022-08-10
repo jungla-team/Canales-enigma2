@@ -28,10 +28,10 @@ Una vez realizada la busqueda de canales estos 3 satelites los combinamos en **5
 | **TIPO** | ultima actualizacion | numero de canales |
 | --- | --- | --- |
 |  Satelite Astra | 09-08-2022 | 1325 canales |
-| Astra Comunitarias |   |   |
-| Astra + Hotbird |   |   |
-| Astra + Hispasat |   |   |
-| Astra + hispasat + hotbird |   |   |
+| Astra Comunitarias | 09-08-2022 | 339 canales  |
+| Astra + Hotbird |  09-08-2022 | 2988 canales  |
+| Astra + Hispasat | 09-08-2022 | 2109 canales |
+| Astra + hispasat + hotbird | 09-08-2022 | 3771 canales |
 
 Las listas que se realizan **no llevan ningun canal iptv**, ya que desde el principio hemos entendido que una lista canales satelite debe ser solo satelite, para que el usuario pueda tener una base de canales Satelite y no mezclar con otro tipo de canales.
 
