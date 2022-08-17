@@ -1,5 +1,5 @@
 Package: enigma2-plugin-settings-jungle.astra.hotbird.hispasat
-Version: 12.08.2022
+Version: 17.08.2022
 Architecture: all
 Maintainer: jungle-team
 Depends: enigma2-plugin-systemplugins-serviceapp
