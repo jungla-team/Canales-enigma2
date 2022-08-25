@@ -1,7 +1,0 @@
-#NAME hbbtv
-#SERVICE 1:64:33:0:0:0:0:0:0:0::****Alemania****
-#DESCRIPTION ****Alemania****
-#SERVICE 1:64:34:0:0:0:0:0:0:0::****AUSTRIA****
-#DESCRIPTION ****AUSTRIA****
-#SERVICE 1:64:35:0:0:0:0:0:0:0::****SUIZOS****
-#DESCRIPTION ****SUIZOS****
