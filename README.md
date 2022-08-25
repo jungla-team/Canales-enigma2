@@ -11,7 +11,7 @@ Lista de canales de televisión, y radio, que se emiten a traves del Satelite **
 
 La descarga de las **listas de canales es gratuita**, no obstante si te gustan y deseas colaborar Para el mantenimiento de los servidores y Blog que gestiona jungle-team puedes realizar una donacion:
 
-## [![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/03969ac6f01c35f8679f023614f0b731e7d3b32eb109d9d3.png)](https://www.paypal.me/jungleteam)
+## [![](https://jungle-team.com/wp-content/uploads/2022/08/paypal-logo-4.png)](https://www.paypal.me/jungleteam)
 
 ## Formato lista Canales
 
@@ -25,11 +25,11 @@ Una vez realizada la busqueda de canales estos 3 satelites los combinamos en **5
 
 | **TIPO** | ultima actualizacion | numero de canales |
 | --- | --- | --- |
-| Satelite Astra | 17-08-2022 | 1327 canales |
-| Astra Comunitarias | 17-08-2022 | 339 canales |
-| Astra + Hotbird | 17-08-2022 | 2990 canales |
-| Astra + Hispasat | 17-08-2022 | 2111 canales |
-| Astra + hispasat + hotbird | 17-08-2022 | 3773 canales |
+| Satelite Astra | 25-08-2022 | 1329 canales |
+| Astra Comunitarias | 25-08-2022 | 339 canales |
+| Astra + Hotbird | 25-08-2022 | 2978 canales |
+| Astra + Hispasat | 25-08-2022 | 2113 canales |
+| Astra + hispasat + hotbird | 25-08-2022 | 3761 canales |
 
 Las listas que se realizan **no llevan ningun canal iptv**, ya que desde el principio hemos entendido que una lista canales satelite debe ser solo satelite, para que el usuario pueda tener una base de canales Satelite y no mezclar con otro tipo de canales.
 
