@@ -25,11 +25,11 @@ Una vez realizada la busqueda de canales estos 3 satelites los combinamos en **5
 
 | **TIPO** | ultima actualizacion | numero de canales |
 | --- | --- | --- |
-| Satelite Astra | 31-01-2023 | 1315 canales |
-| Astra Comunitarias | 31-01-2023 | 339 canales |
-| Astra + Hotbird | 31-01-2023 | 2951 canales |
-| Astra + Hispasat | 31-01-2023 | 2100 canales |
-| Astra + hispasat + hotbird | 31-01-2023 | 3685 canales |
+| Satelite Astra | 13-03-2023 | 1315 canales |
+| Astra Comunitarias | 13-03-2023 | 339 canales |
+| Astra + Hotbird | 13-03-2023 | 2951 canales |
+| Astra + Hispasat | 13-03-2023 | 2100 canales |
+| Astra + hispasat + hotbird | 13-03-2023 | 3685 canales |
 
 Las listas que se realizan **no llevan ningun canal iptv**, ya que desde el principio hemos entendido que una lista canales satelite debe ser solo satelite, para que el usuario pueda tener una base de canales Satelite y no mezclar con otro tipo de canales.
 
@@ -38,10 +38,6 @@ Las listas que se realizan **no llevan ningun canal iptv**, ya que desde el prin
 ## Ordenamiento de los canales en favoritos
 
 Para una mejor experiencia de uso y facilidad para acceder a los canales, estos estan ordenados en diferentes favoritos , para que el usuario pueda encontrar facilmente los canales deseados, la ordenacion en los favoritos se basa en plataformas asi como en tipo de generos o tematica, del mismo modo cada favorito tiene marcadores de separación ya sea por idioma o plataforma o tematica.
-
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/355ae85c5a53503e0673d336bf30c1b7eae80b24d12044e4.jpeg)
-
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/42054b450f2f2846fe3748d57cd0741d3de281210d0c87a0.jpeg)
 
 En la siguiente tabla podemos visionar los tipos de favoritos que llevan las listas que os ponemos a vuestra disposion
 
@@ -79,12 +75,6 @@ wget http://tropical.jungle-team.online/script/jungle-feed.conf -P /etc/opkg/
 
 Una vez hemos añadido los repositorios jungle-team, ya podemos instalar facilmente la lista canales desde el menu + plugins + boton descargas en la categoria settings
 
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/63c33f359869a1a02791fd8a9413b43671d079c1008d0ddb.jpeg)
-
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/b575527888a3ea6646da7a6ba4a821f9c6784a033bd10bd2.jpeg)
-
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/038997b4c270d6c07a9c2aff8714378eb56ae83408957236.jpeg)
-
 ### **4\. Desde panel Extra OpenSpa**
 
 La imagen OpenSpa, suelen subir a su panel extra de instalacion nuestras listas de canales, en este caso pudieran no estar actualizadas al instante, ya que una vez nosotros las publicamos ellos cuando pueden las suben a su panel extra para instalacion:
@@ -92,10 +82,6 @@ La imagen OpenSpa, suelen subir a su panel extra de instalacion nuestras listas 
 ### **5\. Desde jungleBot**
 
 Junglebot es un bot telegram que nos permite controlar nuestro receptor desde telegram, una de las caracteristicas que tiene es que podemos instalar la lista canales desde el mismo (es necesario previamente tener instalado junglescript)
-
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/ccfc9b8f44fa3f55b34d6e1bf91df48cb8d3037645b08772.png)
-
-![](https://33333.cdn.cke-cs.com/kSW7V9NHUXugvhoQeFaf/images/21339fc20f0d25fd46eb1f6699f4f480bcb2ab6a65e53a72.png)
 
 Si deseas mas informacion sobre junglebot, puedes ver el articulo manual:
 
