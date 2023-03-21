@@ -40,7 +40,6 @@
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.ssr.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.rai.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.nc.tv" ORDER BY bouquet
-#SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.Xtra.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.marcadorhispa.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.Meo.tv" ORDER BY bouquet
 #SERVICE 1:7:1:0:0:0:0:0:0:0:FROM BOUQUET "userbouquet.Nos.tv" ORDER BY bouquet
