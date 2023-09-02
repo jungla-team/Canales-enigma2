@@ -7454,7 +7454,7 @@ p:DIGITAL +,C:0,f:1000
 7797:00c00000:0424:0001:1:0:0
 M+ LALIGA TV
 p:Movistar+,C:0,f:1000
-7798:00c00000:0424:0001:1:52:0
+7798:00c00000:0424:0001:25:52:0
 INFO
 p:Digital+,C:0,f:1000
 286e:00c00000:0425:0001:25:0:0
@@ -12832,4 +12832,4 @@ Testiraj Me!
 p:OiV,c:000cd1,c:030cd1,c:050006
 end
 # 244 transponders and 4032 services.
-# Created by E-Channelizer v23.0.0.804 on 02 sep., 2023 at 17:41 - https://www.echannelizer.com
+# Created by E-Channelizer v23.0.0.804 on 02 sep., 2023 at 18:09 - https://www.echannelizer.com
