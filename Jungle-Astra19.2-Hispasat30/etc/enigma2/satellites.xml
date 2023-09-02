@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!-- Created by E-Channelizer on 02 sep., 2023 at 17:46 - https://www.echannelizer.com -->
+<!-- Created by E-Channelizer on 02 sep., 2023 at 18:09 - https://www.echannelizer.com -->
 <satellites>
   <sat name="177.0W C-band NSS 9" flags="1" position="-1771">
     <transponder frequency="4055000" symbol_rate="11000000" polarization="2" fec_inner="1" system="1" modulation="1" />
