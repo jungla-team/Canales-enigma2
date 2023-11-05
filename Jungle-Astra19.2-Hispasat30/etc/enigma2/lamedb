@@ -6947,6 +6947,12 @@ p:Movistar+,c:0000a6,c:010072,c:020037,c:0300a6,c:050001,C:0,f:1000
 788e:00c00000:0414:0001:100:0:0
 11126V SID 0x788e
 p:DVB-S2 8PSK 11126V 19.2Â°E
+74a1:00c00000:0416:0001:1:0:0
+EUROSPORT 1.
+p:CANAL+,c:0000a8,c:010070,c:031430,C:0,f:1000
+76a4:00c00000:0416:0001:1:0:0
+DAZN 1
+p:Movistar+,f:1000
 7725:00c00000:0416:0001:100:0:0
 11156V SID 0x7725
 p:DVB-S QPSK 11156V 19.2Â°E
@@ -7142,6 +7148,12 @@ p:BetaDigital,C:0,f:1000
 52cf:00c00000:041d:0001:100:0:0
 10773H SID 0x52cf
 p:DVB-S2 8PSK 10773H 19.2Â°E
+74a6:00c00000:041e:0001:1:0:0
+LA SEXTA.
+p:Digital+,C:0,f:1000
+74a7:00c00000:041e:0001:1:0:0
+EUROSPORT 2.
+p:Movistar+,c:0000ac,c:010080,c:031434,C:0100,C:1810,f:1000
 768e:00c00000:041e:0001:1:0:0
 ALQUILER 1
 p:TQ1,C:0,f:1000
@@ -7409,6 +7421,9 @@ p:DIGITAL +
 75f6:00c00000:0422:0001:1:0:0
 GUÍA FÁCIL
 p:PRISA TV
+749c:00c00000:0424:0001:1:0:0
+BabyTV.
+p:DIGITAL+,C:0,f:1000
 7789:00c00000:0424:0001:1:0:0
 M+ GOLF
 p:Movistar+,C:0,f:1000
@@ -12831,5 +12846,5 @@ p:OiV,c:000cdb,c:030cdb,c:050001,C:069b
 Testiraj Me!
 p:OiV,c:000cd1,c:030cd1,c:050006
 end
-# 244 transponders and 4032 services.
-# Created by E-Channelizer v23.0.0.804 on 14 sep., 2023 at 22:56 - https://www.echannelizer.com
+# 244 transponders and 4037 services.
+# Created by E-Channelizer v23.0.0.804 on 05 nov., 2023 at 19:41 - https://www.echannelizer.com
