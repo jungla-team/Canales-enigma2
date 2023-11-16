@@ -6086,6 +6086,21 @@ p:GLOBECAST,f:1000
 18f9:00c00000:03f4:0001:1:0:0
 Telesur English
 p:GLOBECAST
+18fa:00c00000:03f4:0001:1:0:0
+BabyTV
+p:Globecast
+18fb:00c00000:03f4:0001:1:0:0
+DAZN F1
+p:Globecast
+18fc:00c00000:03f4:0001:1:0:0
+EUROSPORT 1
+p:GloBecast
+18fe:00c00000:03f4:0001:1:0:0
+LA SEXTA
+p:Globecast
+769e:00c00000:03f4:0001:1:0:0
+LA SEXTA
+p:CANAL+,f:1000
 3070:00c00000:03f5:0001:1:0:0
 .
 p:BetaDigital
@@ -7199,9 +7214,6 @@ p:DVB-S QPSK 10788V 19.2Â°E
 769d:00c00000:041e:0001:1:0:0
 M+ LALIGA TV 2
 p:Movistar+,C:0,f:1000
-769e:00c00000:041e:0001:1:0:0
-BAR
-p:CANAL+,f:1000
 769f:00c00000:041e:0001:1:0:0
 M+LCAMPEON3
 p:Movistar+,f:1000
@@ -12846,5 +12858,5 @@ p:OiV,c:000cdb,c:030cdb,c:050001,C:069b
 Testiraj Me!
 p:OiV,c:000cd1,c:030cd1,c:050006
 end
-# 244 transponders and 4037 services.
-# Created by E-Channelizer v23.0.0.804 on 06 nov., 2023 at 01:11 - https://www.echannelizer.com
+# 244 transponders and 4041 services.
+# Created by E-Channelizer v23.0.0.804 on 15 nov., 2023 at 23:10 - https://www.echannelizer.com
