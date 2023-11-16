@@ -7214,6 +7214,9 @@ p:DVB-S QPSK 10788V 19.2Â°E
 769d:00c00000:041e:0001:1:0:0
 M+ LALIGA TV 2
 p:Movistar+,C:0,f:1000
+769e:00c00000:041e:0001:1:0:0
+LA SEXTA
+p:CANAL+,f:40
 769f:00c00000:041e:0001:1:0:0
 M+LCAMPEON3
 p:Movistar+,f:1000
@@ -12858,5 +12861,5 @@ p:OiV,c:000cdb,c:030cdb,c:050001,C:069b
 Testiraj Me!
 p:OiV,c:000cd1,c:030cd1,c:050006
 end
-# 244 transponders and 4041 services.
-# Created by E-Channelizer v23.0.0.804 on 15 nov., 2023 at 23:10 - https://www.echannelizer.com
+# 244 transponders and 4042 services.
+# Created by E-Channelizer v23.0.0.804 on 16 nov., 2023 at 21:12 - https://www.echannelizer.com
