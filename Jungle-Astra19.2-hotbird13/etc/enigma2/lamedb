@@ -6086,6 +6086,18 @@ p:GLOBECAST,f:1000
 18f9:00c00000:03f4:0001:1:0:0
 Telesur English
 p:GLOBECAST
+18fa:00c00000:03f4:0001:1:0:0
+BabyTV
+p:Globecast
+18fb:00c00000:03f4:0001:1:0:0
+DAZN F1
+p:Globecast
+18fe:00c00000:03f4:0001:1:0:0
+LA SEXTA
+p:Globecast
+769e:00c00000:03f4:0001:1:0:0
+LA SEXTA
+p:CANAL+,f:1000
 3070:00c00000:03f5:0001:1:0:0
 .
 p:BetaDigital
@@ -12846,5 +12858,5 @@ p:OiV,c:000cdb,c:030cdb,c:050001,C:069b
 Testiraj Me!
 p:OiV,c:000cd1,c:030cd1,c:050006
 end
-# 244 transponders and 4037 services.
-# Created by E-Channelizer v23.0.0.804 on 06 nov., 2023 at 01:14 - https://www.echannelizer.com
+# 244 transponders and 4041 services.
+# Created by E-Channelizer v23.0.0.804 on 16 nov., 2023 at 17:08 - https://www.echannelizer.com
