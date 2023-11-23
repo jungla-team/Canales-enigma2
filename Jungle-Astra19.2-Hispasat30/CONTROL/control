@@ -1,5 +1,5 @@
 Package: enigma2-plugin-settings-jungle.astra.hispasat
-Version: 16.11.2023
+Version: 24.11.2023
 Architecture: all
 Maintainer: jungle-team
 Depends: enigma2-plugin-systemplugins-serviceapp
