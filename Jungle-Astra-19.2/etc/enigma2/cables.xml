@@ -6647,7 +6647,7 @@
 	</cable>
 
 	<cable name="Unitymedia (Vodafone)" satfeed="true" flags="9" countrycode="DEU">
-		<!-- lastupdated 20220110 -->
+		<!-- lastupdated 20231019 -->
 		<transponder frequency="114000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="122000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="130000" symbol_rate="6900000" fec_inner="9" modulation="5" />
@@ -6656,14 +6656,6 @@
 		<transponder frequency="154000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="162000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="170000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="178000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="186000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="194000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="202000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="210000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="218000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="226000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="234000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="242000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="250000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="258000" symbol_rate="6900000" fec_inner="9" modulation="5" />
@@ -6684,14 +6676,6 @@
 		<transponder frequency="378000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="386000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="394000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="402000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="410000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="418000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="426000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="434000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="442000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="450000" symbol_rate="6900000" fec_inner="9" modulation="5" />
-		<transponder frequency="458000" symbol_rate="6900000" fec_inner="9" modulation="5" />
 		<transponder frequency="610000" symbol_rate="6900000" fec_inner="9" modulation="3" />
 	</cable>
 
