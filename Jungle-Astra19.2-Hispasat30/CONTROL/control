@@ -1,0 +1,6 @@
+Package: enigma2-plugin-settings-jungle.astra.hispasat
+Version: 29.11.2023
+Architecture: all
+Maintainer: jungle-team
+Depends: enigma2-plugin-systemplugins-serviceapp
+Description: Lista canales Astra 19.2 hispasat 30 Jungle-team
