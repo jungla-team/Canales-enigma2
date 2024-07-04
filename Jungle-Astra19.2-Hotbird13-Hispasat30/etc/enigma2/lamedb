@@ -1,5 +1,116 @@
 eDVB services /4/
 transponders
+eeee0000:0120:00ff
+	t 554000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:014a:2028
+	t 473999996:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0190:2028
+	t 497999996:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:01a4:2028
+	t 745999999:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:d101:20bf
+	t 594000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:d102:20bf
+	t 658000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:d104:20bf
+	t 474000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:d403:20bf
+	t 754000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:d405:20bf
+	t 610000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0202:2114
+	t 481999995:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:3002:2114
+	t 665999997:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:3102:2114
+	t 673999999:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:3801:2114
+	t 649999992:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:3901:2114
+	t 625999998:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0101:22b0
+	t 498000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0103:22b0
+	t 538000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0602:22b0
+	t 610000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0712:22b0
+	t 562000000:0:5:5:3:2:4:4:2:0:1:0
+/
+eeee0000:0802:22b0
+	t 562000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0b02:22b0
+	t 538000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0c12:22b0
+	t 626000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0f12:22b0
+	t 498000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0001:22c7
+	t 722000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0002:22c7
+	t 786000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0003:22c7
+	t 514000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0004:22c7
+	t 762000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0005:22c7
+	t 482000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:000e:22d4
+	t 562000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:000f:22d4
+	t 578000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0010:22d4
+	t 506000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0011:22d4
+	t 514000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0012:22d4
+	t 482000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0027:22d4
+	t 618000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:03f4:22d4
+	t 570000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:1838:22d4
+	t 610000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:9c40:22d4
+	t 634000000:0:5:5:3:2:4:4:2:0:0:0
+/
+eeee0000:0005:22f4
+	t 577999999:0:5:5:3:2:4:4:2:0:0:0
+/
 00820000:0065:0001
 	s 12226000:27500000:1:3:130:2:0
 /
@@ -746,6 +857,1191 @@ eeee0000:d405:20bf
 /
 end
 services
+0200:eeee0000:0005:22c7:1:0:0
+Pax TV
+p:Antenna Hungária
+0400:eeee0000:0f12:22b0:1:0:0
+NOVOSADSKA TV
+p:
+0001:eeee0000:d101:20bf:1:0:0
+HTV1
+p:OiV
+0001:eeee0000:0005:22f4:1:0:0
+SRF 1
+p:Schweizer Radio und Fernsehen
+0101:eeee0000:0005:22f4:1:0:0
+RTS Un
+p:Radio Television Suisse
+0201:eeee0000:0005:22c7:1:0:0
+Bonum TV
+p:Antenna Hungária
+0201:eeee0000:0005:22f4:1:0:0
+RSI LA 1
+p:Radiotelevisione svizzera
+0401:eeee0000:0f12:22b0:1:0:0
+TV Kanal 25
+p:ETV,c:0004e3,c:0104e4,c:0304e3,c:050001
+0002:eeee0000:3801:2114:1:0:0
+arte
+p:SWR,c:000201,c:010202,c:020204,c:030201,f:1000
+0002:eeee0000:d101:20bf:1:0:0
+HTV2
+p:OiV
+0002:eeee0000:3002:2114:1:0:0
+arte
+p:BR,c:000021,c:010022,c:020024,c:030021
+0002:eeee0000:0005:22f4:1:0:0
+SRF zwei
+p:Schweizer Radio und Fernsehen
+0202:eeee0000:0202:2114:1:0:0
+ZDF
+p:ZDFmobil,c:000221,c:010222,c:020227,c:030221,f:1000
+0202:eeee0000:0005:22c7:1:0:0
+LiChi TV
+p:Antenna Hungária,c:001415,c:031415,c:050001,C:0b00
+0402:eeee0000:0f12:22b0:1:0:0
+TV Delta
+p:
+0003:eeee0000:3801:2114:1:0:0
+Phoenix
+p:SWR,c:000301,c:010302,c:020304,c:030301,f:1000
+0003:eeee0000:d101:20bf:1:0:0
+RTL
+p:OiV
+0003:eeee0000:3002:2114:1:0:0
+Phoenix
+p:BR,c:000031,c:010032,c:020034,c:030031
+0003:eeee0000:0005:22f4:1:0:0
+SRF info
+p:Schweizer Radio und Fernsehen
+0203:eeee0000:0202:2114:1:0:0
+3sat
+p:ZDFmobil,f:1000
+0203:eeee0000:0005:22c7:1:0:0
+SuperOne
+p:Antenna Hungária,f:1000
+0403:eeee0000:0f12:22b0:1:0:0
+TV K 9
+p:ETV
+0004:eeee0000:d101:20bf:1:0:0
+NOVA TV
+p:OiV,c:000191,c:010192,c:020193,c:030191
+0004:eeee0000:3102:2114:1:0:0
+tagesschau24
+p:BR
+0204:eeee0000:0202:2114:1:0:0
+ZDFinfo
+p:ZDFmobil,c:000241,c:010242,c:020227,c:030241,f:1000
+0204:eeee0000:0005:22c7:1:0:0
+RTL Spike
+p:Antenna Hungária,c:001429,c:031429,c:050001,C:0b00
+0205:eeee0000:0202:2114:1:0:0
+neo/KiKA
+p:ZDFmobil,f:1000
+0205:eeee0000:0005:22c7:1:0:0
+Heti TV
+p:Antenna Hungária
+1005:eeee0000:d104:20bf:1:0:0
+Vinkovacka televizija
+p:OiV
+0006:eeee0000:3801:2114:1:0:0
+EinsPlus
+p:SWR
+0006:eeee0000:3002:2114:1:0:0
+EinsPlus
+p:BR
+0106:eeee0000:3901:2114:1:0:0
+WDR Fernsehen
+p:SWR,f:1000
+0206:eeee0000:0005:22c7:1:0:0
+Fix TV
+p:Antenna Hungária
+1006:eeee0000:d104:20bf:1:0:0
+STV
+p:OiV
+0207:eeee0000:0005:22c7:1:0:0
+D1 TV
+p:Antenna Hungária,c:001447,c:031447,c:050001,C:0b00
+1007:eeee0000:d104:20bf:1:0:0
+OSJECKA TV
+p:OiV
+0212:eeee0000:03f4:22d4:1:0:0
+La 1
+p:RTVE
+0213:eeee0000:03f4:22d4:1:0:0
+La 2
+p:RTVE
+0214:eeee0000:03f4:22d4:1:0:0
+24h
+p:RTVE
+0015:eeee0000:d102:20bf:1:0:0
+HRT3
+p:OiV
+0115:eeee0000:000e:22d4:1:0:0
+DMAX
+p:VEO,c:00012d,c:01012f,c:020137,c:03012d,f:1000
+0016:eeee0000:d102:20bf:1:0:0
+HRT4
+p:OiV
+0116:eeee0000:000e:22d4:1:0:0
+GOL PLAY
+p:Mediapro,f:1000
+0017:eeee0000:d102:20bf:1:0:0
+RTL 2
+p:OiV
+0018:eeee0000:d102:20bf:1:0:0
+Doma TV
+p:OiV
+1518:eeee0000:d403:20bf:1:0:0
+SK1
+p:OiV,C:0000
+1519:eeee0000:d403:20bf:1:0:0
+SK2
+p:OiV,C:0000
+151a:eeee0000:d403:20bf:1:0:0
+SK3
+p:OiV,C:0000
+151b:eeee0000:d403:20bf:1:0:0
+Lov i Ribolov
+p:OiV,C:0000
+0c1c:eeee0000:d405:20bf:1:0:0
+evotv info
+p:OiV,C:0000
+151c:eeee0000:d403:20bf:1:0:0
+HNTV
+p:OiV,C:0000
+151d:eeee0000:d403:20bf:1:0:0
+Eurosport 1
+p:OiV
+151e:eeee0000:d403:20bf:1:0:0
+Eurosport 2
+p:OiV
+0020:eeee0000:3002:2114:1:0:0
+Das Erste
+p:BR
+0c20:eeee0000:d405:20bf:1:0:0
+N1
+p:OiV,C:0000
+0c21:eeee0000:d405:20bf:1:0:0
+Al Jazeera Balkans
+p:Harmonic,C:0000
+0022:eeee0000:3901:2114:1:0:0
+Bayerisches FS
+p:SWR,f:1000
+0022:eeee0000:3102:2114:1:0:0
+Bayerisches FS Süd
+p:BR
+0c22:eeee0000:d405:20bf:1:0:0
+CNN
+p:OiV,C:0000
+0023:eeee0000:3102:2114:1:0:0
+BR-alpha
+p:BR
+0c23:eeee0000:d405:20bf:1:0:0
+National Geographic
+p:OiV,C:0000
+0c24:eeee0000:d405:20bf:1:0:0
+NatGeo Wild
+p:OiV,C:0000
+0c25:eeee0000:d405:20bf:1:0:0
+Viasat Explore
+p:OiV,C:0000
+0c26:eeee0000:d405:20bf:1:0:0
+Viasat History
+p:OiV,C:0000
+2c26:eeee0000:014a:2028:1:0:0
+3SAT
+p:ORF
+0c27:eeee0000:d405:20bf:1:0:0
+Discovery
+p:OiV,C:0000
+2c27:eeee0000:014a:2028:1:0:0
+ORF SPORT +
+p:ORF
+0c28:eeee0000:d405:20bf:1:0:0
+Animal Planet
+p:OiV
+2c28:eeee0000:014a:2028:1:0:0
+ServusTV
+p:ServusTV,c:000bf8,c:010bf9,c:020bfc,c:030bf8
+0c29:eeee0000:d405:20bf:1:0:0
+Doku TV HD
+p:OiV
+2c29:eeee0000:014a:2028:1:0:0
+ORF III
+p:ORF
+a029:eeee0000:9c40:22d4:1:0:0
+DKISS
+p:DKISS,f:1000
+012c:eeee0000:0003:22c7:1:0:0
+AXN
+p:Antenna Hungária,c:000bb9,c:030bb9,c:050001,c:09bbd0202,C:0000
+012d:eeee0000:0003:22c7:1:0:0
+VIASAT3
+p:Antenna Hungária,C:0000
+012e:eeee0000:0003:22c7:1:0:0
+RTL+
+p:Antenna Hungária,C:0000
+012f:eeee0000:0003:22c7:1:0:0
+PRIME
+p:Antenna Hungária,c:000bd7,c:020bd9,c:030bd7,c:050001,C:0000
+0130:eeee0000:0003:22c7:1:0:0
+Da Vinci Learning
+p:Antenna Hungária,c:000be1,c:030be1,c:050001,C:0000
+0131:eeee0000:0003:22c7:1:0:0
+Comedy Central
+p:Antenna Hungária,c:000beb,c:030beb,c:050001,C:0000
+0132:eeee0000:0003:22c7:1:0:0
+Nickelodeon
+p:Antenna Hungária,C:0000
+0133:eeee0000:0003:22c7:1:0:0
+Cartoon Network
+p:Antenna Hungária,C:0000
+0134:eeee0000:0003:22c7:1:0:0
+National Geographic
+p:Antenna Hungaria,C:0000
+0135:eeee0000:0003:22c7:1:0:0
+Filmbox
+p:Antenna Hungária,c:000c13,c:030c13,c:050001,C:0000
+0136:eeee0000:0003:22c7:1:0:0
+Eurosport
+p:Antenna Hungária,c:000c1d,c:030c1d,c:050001,C:0b00
+0137:eeee0000:0003:22c7:1:0:0
+Mozi+
+p:Antenna Hungária,c:000c27,c:030c27,c:050001,C:0000
+0138:eeee0000:0003:22c7:1:0:0
+Spektrum
+p:Antenna Hungária,C:0000
+0139:eeee0000:0003:22c7:1:0:0
+Izaura TV
+p:,c:000c3b,c:030c3b,c:050001
+013a:eeee0000:0003:22c7:1:0:0
+Zenebutik
+p:,c:000c45,c:030c45,c:050001
+013b:eeee0000:0003:22c7:1:0:0
+FEM3
+p:
+013c:eeee0000:0003:22c7:1:0:0
+Spektrum Home
+p:AMC Networks,c:000c59,c:030c59,c:050001
+0f3d:eeee0000:0027:22d4:1:0:0
+8madrid TV
+p:Teledifusion Madrid
+0f3e:eeee0000:0027:22d4:1:0:0
+TRECE
+p:Teledifusion Madrid
+0f3f:eeee0000:0027:22d4:1:0:0
+EL Toro TV
+p:Teledifusion Madrid
+0f40:eeee0000:0027:22d4:1:0:0
+HIT TV
+p:Teledifusion Madrid
+0041:eeee0000:3901:2114:1:0:0
+hr-fernsehen
+p:SWR,f:1000
+9c42:eeee0000:9c40:22d4:1:0:0
+tdp
+p:RTVE,f:1000
+9c44:eeee0000:9c40:22d4:1:0:0
+Clan
+p:RTVE,f:1000
+1645:eeee0000:d403:20bf:1:0:0
+Viasat Nature/History HD
+p:OiV
+0f46:eeee0000:0027:22d4:1:0:0
+Libertad Digital
+p:Harmonic
+145e:eeee0000:d403:20bf:1:0:0
+M1 GOLD
+p:OiV,C:0000
+0068:eeee0000:0012:22d4:1:0:0
+TEN
+p:TEN,f:1000
+3071:eeee0000:01a4:2028:1:0:0
+ATV2
+p:ATV
+3072:eeee0000:01a4:2028:1:0:0
+GoTV
+p:GoTV
+3073:eeee0000:01a4:2028:1:0:0
+Ländle TV
+p:0RS
+2775:eeee0000:0190:2028:1:0:0
+ORF1
+p:ORF,c:000faa,c:010fab,c:020faf,c:030faa
+1677:eeee0000:d403:20bf:1:0:0
+Penthouse 1
+p:OiV
+0078:eeee0000:0001:22c7:1:0:0
+Duna World
+p:Duna Televízió
+1678:eeee0000:d403:20bf:1:0:0
+Penthouse 2
+p:OiV
+157c:eeee0000:d403:20bf:1:0:0
+24Kitchen
+p:OiV,c:00140b,c:03140b,c:050001,C:069b
+277c:eeee0000:0190:2028:1:0:0
+ORF2 T
+p:ORF,c:000fb4,c:010fb5,c:020fb9,c:030fb4
+157d:eeee0000:d403:20bf:1:0:0
+FLN
+p:OiV
+157e:eeee0000:d403:20bf:1:0:0
+TLC
+p:OiV
+0c7f:eeee0000:d405:20bf:1:0:0
+HBO HD
+p:OiV
+0c80:eeee0000:d405:20bf:1:0:0
+HBO2 HD
+p:OiV
+0c81:eeee0000:d405:20bf:1:0:0
+HBO3 HD
+p:OiV
+0c82:eeee0000:d405:20bf:1:0:0
+Cinemax
+p:OiV
+0c83:eeee0000:d405:20bf:1:0:0
+Cinemax 2
+p:OiV
+0c84:eeee0000:d405:20bf:1:0:0
+Klasik TV
+p:OiV
+0c85:eeee0000:d405:20bf:1:0:0
+AMC
+p:OiV
+0c86:eeee0000:d405:20bf:1:0:0
+AXN
+p:OiV
+0c87:eeee0000:d405:20bf:1:0:0
+Movie Generation
+p:OiV
+0c88:eeee0000:d405:20bf:1:0:0
+Comedy Central Extra
+p:OiV
+2788:eeee0000:0190:2028:1:0:0
+ATV
+p:ATV+,c:000fc8,c:010fc9,c:020fcd,c:030fc8
+0c89:eeee0000:d405:20bf:1:0:0
+Kino TV
+p:OiV
+2789:eeee0000:014a:2028:1:0:0
+PULS 4
+p:sevenonemedia,c:000bea,c:010beb,c:020bec,c:030bea
+0c8a:eeee0000:d405:20bf:1:0:0
+Cinestar TV
+p:OiV
+0c8b:eeee0000:d405:20bf:1:0:0
+FOX
+p:OiV
+0c8c:eeee0000:d405:20bf:1:0:0
+FOX Life
+p:OiV
+0c8d:eeee0000:d405:20bf:1:0:0
+M1 FILM
+p:OiV,c:000cdb,c:030cdb,c:050001,C:069b
+138f:eeee0000:0027:22d4:1:0:0
+Déjate TV
+p:Harmonic
+0190:eeee0000:0004:22c7:1:0:0
+Film+
+p:Antenna Hungária,c:000fa1,c:030fa1,c:050001,C:0000
+2790:eeee0000:0190:2028:1:0:0
+ORF2 V
+p:ORF
+0191:eeee0000:0004:22c7:1:0:0
+FOX
+p:Antenna Hungária,c:000fab,c:030fab,c:050001,c:09fb10101,C:0000
+0192:eeee0000:0004:22c7:1:0:0
+Spiler TV
+p:Antenna Hungária,c:000fb5,c:030fb5,c:050001,C:0000
+1392:eeee0000:0027:22d4:1:0:0
+Canal Galería
+p:Harmonic
+0193:eeee0000:0004:22c7:1:0:0
+RTL II
+p:Antenna Hungária,C:0000
+0194:eeee0000:0004:22c7:1:0:0
+Super TV2
+p:Antenna Hungária,c:000fc9,c:030fc9,c:050001,C:0000
+0195:eeee0000:0004:22c7:1:0:0
+Kiwi TV
+p:Antenna Hungária,c:000fd3,c:030fd3,c:050001,C:0000
+0096:eeee0000:000f:22d4:1:0:0
+antena3
+p:ATRESMEDIA,f:1000
+0196:eeee0000:0004:22c7:1:0:0
+Disney Channel
+p:Antenna Hungaria,C:0000
+0197:eeee0000:0004:22c7:1:0:0
+AMC
+p:Antenna Hungaria,C:0000
+0098:eeee0000:000f:22d4:1:0:0
+laSexta
+p:ATRESMEDIA,f:1000
+0198:eeee0000:0004:22c7:1:0:0
+Paramount Channel
+p:Antenna Hungária,c:000ff1,c:030ff1,c:050001,c:09ff70202,C:0000
+0099:eeee0000:000f:22d4:1:0:0
+neox
+p:ATRESMEDIA,f:1000
+0199:eeee0000:0004:22c7:1:0:0
+Discovery Channel
+p:Antenna Hungária,C:0000
+009a:eeee0000:000f:22d4:1:0:0
+nova
+p:ATRESMEDIA,f:1000
+019a:eeee0000:0004:22c7:1:0:0
+Humor+
+p:Antenna Hungária,c:001005,c:031005,c:050001,C:0b00
+009b:eeee0000:0011:22d4:1:0:0
+mega
+p:A3MEDIA,f:1000
+019b:eeee0000:0004:22c7:1:0:0
+Viasat6
+p:Antenna Hungária
+019c:eeee0000:0004:22c7:1:0:0
+Cool
+p:Antenna Hungária
+019d:eeee0000:0004:22c7:1:0:0
+Ozone Network
+p:Antenna Hungária
+019e:eeee0000:0004:22c7:1:0:0
+Story4
+p:Antenna Hungária,c:00102d,c:03102d,c:050001
+019f:eeee0000:0004:22c7:1:0:0
+Sport1
+p:Antenna Hungária,c:001037,c:031037,c:050001,C:0b00
+01a0:eeee0000:0004:22c7:1:0:0
+TV Paprika
+p:Antenna Hungária,c:001041,c:031041,c:050001,C:0b00
+01a5:eeee0000:1838:22d4:1:0:0
+Telemadrid
+p:RTVM
+01a6:eeee0000:1838:22d4:1:0:0
+LA OTRA
+p:RTVM
+01a7:eeee0000:1838:22d4:1:0:0
+BOM
+p:Vocento
+00aa:eeee0000:0011:22d4:1:0:0
+TRECE
+p:TRECE,f:1000
+36b1:eeee0000:d104:20bf:1:0:0
+Sportska televizija
+p:OiV
+36b2:eeee0000:d104:20bf:1:0:0
+RTL KOCKICA
+p:OiV
+36b3:eeee0000:d104:20bf:1:0:0
+CMC
+p:OiV
+14b5:eeee0000:d403:20bf:1:0:0
+Disney Channel
+p:OiV,C:0000
+14b6:eeee0000:d403:20bf:1:0:0
+Baby TV
+p:OiV,C:0000
+14b7:eeee0000:d403:20bf:1:0:0
+Boomerang
+p:OiV,C:0000
+14b8:eeee0000:d403:20bf:1:0:0
+Cartoon Network
+p:OiV,C:0000
+0bb9:eeee0000:0103:22b0:1:0:0
+Arena sport 1
+p:Harmonic,c:000bc3,c:010bc4,c:030bc3,c:050001,C:0000
+14b9:eeee0000:d403:20bf:1:0:0
+Nickelodeon
+p:OiV,C:0000
+00ba:eeee0000:0010:22d4:1:0:0
+Telecinco
+p:MEDIASET,f:1000
+0bba:eeee0000:0103:22b0:1:0:0
+Arena sport 2
+p:Harmonic,C:0000
+14ba:eeee0000:d403:20bf:1:0:0
+Nick Jr.
+p:OiV,C:0000
+00bb:eeee0000:0010:22d4:1:0:0
+Cuatro
+p:MEDIASET,c:0004b1,c:0104b3,c:0204b2,c:0304b1,f:1000
+0bbb:eeee0000:0103:22b0:1:0:0
+Arena sport 3
+p:Harmonic,C:0000
+00bc:eeee0000:0010:22d4:1:0:0
+FDF
+p:MEDIASET,f:1000
+0bbc:eeee0000:0103:22b0:1:0:0
+Arena sport 4
+p:Harmonic,C:0000
+00bd:eeee0000:0010:22d4:1:0:0
+Divinity
+p:MEDIASET,f:1000
+0bbd:eeee0000:0103:22b0:1:0:0
+Arena sport 5
+p:Harmonic,C:0000
+0bbe:eeee0000:0103:22b0:1:0:0
+Minimax
+p:Harmonic,C:0000
+0bbf:eeee0000:0103:22b0:1:0:0
+Nickelodeon
+p:Harmonic
+00c0:eeee0000:0011:22d4:1:0:0
+Energy
+p:MEDIASET,c:00044d,c:01044f,c:02044e,c:03044d,f:1000
+0bc0:eeee0000:0103:22b0:1:0:0
+Film Klub
+p:Harmonic
+00c1:eeee0000:0011:22d4:1:0:0
+Boing
+p:MEDIASET,f:1000
+0bc1:eeee0000:0103:22b0:1:0:0
+Agro TV
+p:Harmonic
+0bc2:eeee0000:0103:22b0:1:0:0
+Zenska TV
+p:Harmonic
+0bc3:eeee0000:0103:22b0:1:0:0
+Kitchen TV
+p:Harmonic
+0bc4:eeee0000:0103:22b0:1:0:0
+Hram TV
+p:Harmonic
+0bc5:eeee0000:0103:22b0:1:0:0
+Info na dlanu
+p:Harmonic
+0bc6:eeee0000:0103:22b0:1:0:0
+Sve na dlanu
+p:Harmonic
+0bc7:eeee0000:0103:22b0:1:0:0
+Pink 2
+p:Harmonic
+0bc8:eeee0000:0103:22b0:1:0:0
+Pink 3 Info
+p:Harmonic
+00c9:eeee0000:0002:22c7:1:0:0
+M3 Anno
+p:Antenna Hungária,C:0000
+00c9:eeee0000:000e:22d4:1:0:0
+Disney Channel
+p:Disney Channel,f:1000
+0bc9:eeee0000:0103:22b0:1:0:0
+Pink Kids
+p:Harmonic,c:000c63,c:010c64,c:030c63,c:050001,C:0b00
+00ca:eeee0000:000e:22d4:1:0:0
+PARAMOUNT NETWORK
+p:PARAMOUNT NETWORK,f:1000
+0bca:eeee0000:0103:22b0:1:0:0
+Pink Serije
+p:Harmonic
+00cb:eeee0000:0002:22c7:1:0:0
+RTL Klub
+p:Magyar RTL Televízió Zrt.
+0bcb:eeee0000:0103:22b0:1:0:0
+Pink Premium
+p:Harmonic
+00cc:eeee0000:0002:22c7:1:0:0
+TV2
+p:TV2 Média Csoport Kft.
+0bcc:eeee0000:0103:22b0:1:0:0
+Pink Movies
+p:Harmonic
+0bcd:eeee0000:0103:22b0:1:0:0
+Pink Action
+p:Harmonic
+0bce:eeee0000:0103:22b0:1:0:0
+Pink Comedy
+p:Harmonic
+0bcf:eeee0000:0103:22b0:1:0:0
+Pink Pedia
+p:Harmonic
+0bd0:eeee0000:0103:22b0:1:0:0
+Pink Western
+p:Harmonic
+07d1:eeee0000:0602:22b0:1:0:0
+TV BELLE AMIE
+p:
+07d1:eeee0000:0802:22b0:1:0:0
+RTV Novi Pazar
+p:
+07d1:eeee0000:0b02:22b0:1:0:0
+TV Palma Plus
+p:
+0bd1:eeee0000:0103:22b0:1:0:0
+Pink Reality
+p:Harmonic
+00d2:eeee0000:0002:22c7:1:0:0
+ATV
+p:Antenna Hungária,C:0000
+07d2:eeee0000:0602:22b0:1:0:0
+TV Krusevac
+p:ETV
+07d2:eeee0000:0802:22b0:1:0:0
+TV K::CN Raska
+p:ETV
+0bd2:eeee0000:0103:22b0:1:0:0
+Pink Thriller
+p:Harmonic
+00d3:eeee0000:0002:22c7:1:0:0
+HirTV
+p:Antenna Hungária,C:0000
+07d3:eeee0000:0602:22b0:1:0:0
+TV Kraljevo
+p:ETV
+07d3:eeee0000:0802:22b0:1:0:0
+TV CONNECT
+p:ETV
+07d3:eeee0000:0b02:22b0:1:0:0
+TV Kragujevac
+p:
+0bd3:eeee0000:0103:22b0:1:0:0
+TV K1
+p:Telekom Srbija
+07d4:eeee0000:0802:22b0:1:0:0
+RTV Kursumlija
+p:
+07d4:eeee0000:0b02:22b0:1:0:0
+TV KCN Jagodina
+p:
+0bd4:eeee0000:0103:22b0:1:0:0
+TVDR
+p:Telekom Srbija
+07d5:eeee0000:0802:22b0:1:0:0
+Sandzacka TV Mreza
+p:
+07d5:eeee0000:0b02:22b0:1:0:0
+TV Kanal M
+p:
+0bd5:eeee0000:0103:22b0:1:0:0
+TV Kazbuka
+p:Telekom Srbija
+00d6:eeee0000:0002:22c7:1:0:0
+MinDig TV Plusz Info
+p:Antenna Hungária,c:00085d,c:03085d,c:050001
+07d6:eeee0000:0802:22b0:1:0:0
+TV Plus
+p:
+07d6:eeee0000:0b02:22b0:1:0:0
+TV Jasenica
+p:
+0bd6:eeee0000:0103:22b0:1:0:0
+Antena Plus Info
+p:Harmonic
+07d7:eeee0000:0802:22b0:1:0:0
+TV Diskos
+p:
+07d7:eeee0000:0b02:22b0:1:0:0
+TV Sunce
+p:
+0ed7:eeee0000:d405:20bf:1:0:0
+Testiraj Me!
+p:OiV,c:000cd1,c:030cd1,c:050006
+07d8:eeee0000:0602:22b0:1:0:0
+TV Leskovac
+p:
+07d9:eeee0000:0602:22b0:1:0:0
+TV ZONA PLUS
+p:
+07d9:eeee0000:0802:22b0:1:0:0
+Sandzak TV
+p:ETV
+07d9:eeee0000:0b02:22b0:1:0:0
+SAT TV
+p:
+07da:eeee0000:0802:22b0:1:0:0
+TV Jefimija
+p:
+07da:eeee0000:0b02:22b0:1:0:0
+TV INFO 24
+p:
+07db:eeee0000:0602:22b0:1:0:0
+TV Melos
+p:ETV
+07db:eeee0000:0802:22b0:1:0:0
+Sportska TV
+p:
+07dc:eeee0000:0602:22b0:1:0:0
+MOSTNET
+p:
+07dc:eeee0000:0802:22b0:1:0:0
+TV Vrnjacka Banja
+p:
+07dc:eeee0000:0b02:22b0:1:0:0
+RTV Sumadija
+p:
+07dd:eeee0000:0602:22b0:1:0:0
+TV Laser
+p:
+07dd:eeee0000:0802:22b0:1:0:0
+TV Kraljevo
+p:ETV
+07de:eeee0000:0602:22b0:1:0:0
+TV K-1
+p:
+07df:eeee0000:0602:22b0:1:0:0
+NTV
+p:
+00e0:eeee0000:3801:2114:1:0:0
+Das Erste
+p:SWR,c:000101,c:010102,c:020104,c:030101,f:1000
+15e0:eeee0000:d403:20bf:1:0:0
+MTV
+p:OiV
+00e1:eeee0000:3901:2114:1:0:0
+SWR Fernsehen BW
+p:SWR,c:000101,c:010102,c:020104,c:030101,f:1000
+00e1:eeee0000:3102:2114:1:0:0
+SWR Fernsehen BW
+p:BR
+07e1:eeee0000:0602:22b0:1:0:0
+TV K::CN 1
+p:ETV
+15e1:eeee0000:d403:20bf:1:0:0
+VH1
+p:OiV
+07e3:eeee0000:0602:22b0:1:0:0
+TV Trstenik
+p:
+15e3:eeee0000:d403:20bf:1:0:0
+DM Sat
+p:OiV
+07e4:eeee0000:0602:22b0:1:0:0
+TV 4S
+p:
+15e4:eeee0000:d403:20bf:1:0:0
+Jugoton
+p:OiV
+15e5:eeee0000:d403:20bf:1:0:0
+HAYAT PLUS
+p:OiV
+15e6:eeee0000:d403:20bf:1:0:0
+HAYAT MUSIC
+p:OiV
+03e9:eeee0000:0101:22b0:1:0:0
+RTS 1
+p:ETV,c:0003f3,c:0103f4,c:0203f9,c:0303f3,c:050001
+03e9:eeee0000:0712:22b0:1:0:0
+RTS 1
+p:ETV
+03e9:eeee0000:0c12:22b0:1:0:0
+RTS 1
+p:ETV
+03e9:eeee0000:0f12:22b0:1:0:0
+RTS 1
+p:ETV,c:0003f3,c:0103f4,c:0203f9,c:0303f3,c:050001
+03ea:eeee0000:0101:22b0:1:0:0
+RTS 2
+p:ETV
+03ea:eeee0000:0712:22b0:1:0:0
+RTS 2
+p:ETV
+03ea:eeee0000:0c12:22b0:1:0:0
+RTS 2
+p:ETV
+03ea:eeee0000:0f12:22b0:1:0:0
+RTS 2
+p:ETV,c:0003fd,c:0103fe,c:020403,c:0303fd,c:050001
+03eb:eeee0000:0101:22b0:1:0:0
+PINK
+p:ETV,c:000407,c:010408,c:02040d,c:030407,c:050001
+03eb:eeee0000:0712:22b0:1:0:0
+PINK
+p:ETV
+03eb:eeee0000:0c12:22b0:1:0:0
+PINK
+p:ETV
+03eb:eeee0000:0f12:22b0:1:0:0
+PINK
+p:ETV,c:000407,c:010408,c:02040d,c:030407,c:050001
+03ec:eeee0000:0101:22b0:1:0:0
+TV B92
+p:ETV,c:000411,c:010412,c:020417,c:030411,c:050001
+03ec:eeee0000:0712:22b0:1:0:0
+O2.TV
+p:ETV
+03ec:eeee0000:0c12:22b0:1:0:0
+O2.TV
+p:ETV
+03ec:eeee0000:0f12:22b0:1:0:0
+O2.TV
+p:ETV,c:000411,c:010412,c:020417,c:030411,c:050001
+03ed:eeee0000:0101:22b0:1:0:0
+PRVA
+p:ETV
+03ed:eeee0000:0712:22b0:1:0:0
+PRVA
+p:ETV
+03ed:eeee0000:0c12:22b0:1:0:0
+PRVA
+p:ETV
+03ed:eeee0000:0f12:22b0:1:0:0
+PRVA
+p:ETV,c:00041b,c:01041c,c:020421,c:03041b,c:050001
+13ed:eeee0000:d403:20bf:1:0:0
+Da Vinci
+p:OiV,C:0000
+03ee:eeee0000:0101:22b0:1:0:0
+HAPPY
+p:ETV,c:000425,c:010426,c:02042b,c:030425,c:050001
+03ee:eeee0000:0712:22b0:1:0:0
+HAPPY
+p:ETV
+03ee:eeee0000:0c12:22b0:1:0:0
+HAPPY
+p:ETV
+03ee:eeee0000:0f12:22b0:1:0:0
+HAPPY
+p:ETV
+13ee:eeee0000:d403:20bf:1:0:0
+Laudato TV
+p:OiV,C:0000
+03ef:eeee0000:0101:22b0:1:0:0
+RTS 3
+p:ETV
+03ef:eeee0000:0712:22b0:1:0:0
+RTV 1
+p:ETV
+03ef:eeee0000:0c12:22b0:1:0:0
+RTV 1
+p:ETV
+03ef:eeee0000:0f12:22b0:1:0:0
+RTV 1
+p:ETV,c:00042f,c:010430,c:020435,c:03042f,c:050001
+03f0:eeee0000:0101:22b0:1:0:0
+INFO
+p:ETV
+03f0:eeee0000:0712:22b0:1:0:0
+RTV 2
+p:ETV
+03f0:eeee0000:0c12:22b0:1:0:0
+RTV 2
+p:ETV
+03f0:eeee0000:0f12:22b0:1:0:0
+RTV 2
+p:ETV,c:000439,c:01043a,c:02043f,c:030439,c:050001
+03f1:eeee0000:0712:22b0:1:0:0
+RTS 3
+p:ETV
+03f1:eeee0000:0c12:22b0:1:0:0
+RTS 3
+p:ETV
+03f1:eeee0000:0f12:22b0:1:0:0
+RTS 3
+p:ETV,c:000443,c:010444,c:030443,c:050001
+03f2:eeee0000:0712:22b0:1:0:0
+INFO
+p:ETV
+03f2:eeee0000:0c12:22b0:1:0:0
+INFO
+p:ETV
+03f2:eeee0000:0f12:22b0:1:0:0
+INFO
+p:ETV
+01f4:eeee0000:0005:22c7:1:0:0
+Echo TV
+p:Antenna Hungária,c:001389,c:031389,c:050001,C:0000
+01f5:eeee0000:0005:22c7:1:0:0
+TLC
+p:Antenna Hungária,C:0000
+01f6:eeee0000:0005:22c7:1:0:0
+RTL Gold
+p:Antenna Hungária,c:00139d,c:03139d,c:050001,C:0000
+01f7:eeee0000:0005:22c7:1:0:0
+Fishing & Hunting
+p:Antenna Hungária,C:0000
+01f8:eeee0000:0005:22c7:1:0:0
+Brazzers
+p:Antenna Hungária,C:0000,f:1000
+01f9:eeee0000:0005:22c7:1:0:0
+Animal Planet
+p:Antenna Hungária,C:0000
+01fa:eeee0000:0005:22c7:1:0:0
+Discovery Science
+p:Antenna Hungária,C:0000
+01fb:eeee0000:0005:22c7:1:0:0
+NatGeo Wild
+p:Antenna Hungária,C:0000
+01fc:eeee0000:0005:22c7:1:0:0
+Viasat History
+p:Antenna Hungária,C:0000
+01fd:eeee0000:0005:22c7:1:0:0
+Filmbox Premium
+p:Antenna Hungária
+03fd:eeee0000:0712:22b0:1:0:0
+Santos TV
+p:ETV,c:0004bb,c:0104bc,c:0304bb,c:050001,f:200
+03fd:eeee0000:0c12:22b0:1:0:0
+TV MOST
+p:
+03fd:eeee0000:0f12:22b0:1:0:0
+TV MOST
+p:
+01fe:eeee0000:0005:22c7:1:0:0
+Story5
+p:Antenna Hungária,c:0013ed,c:0313ed,c:050001
+03fe:eeee0000:0712:22b0:1:0:0
+Rubin
+p:ETV,c:0004c5,c:0104c6,c:0304c5,c:050001
+03fe:eeee0000:0c12:22b0:1:0:0
+TV YU ECO
+p:
+03fe:eeee0000:0f12:22b0:1:0:0
+TV Sremska
+p:ETV,c:0004c5,c:0104c6,c:0304c5,c:050001
+01ff:eeee0000:0005:22c7:1:0:0
+Slager TV
+p:Antenna Hungária,c:0013f7,c:0313f7,c:050001,C:0b00
+03ff:eeee0000:0712:22b0:1:0:0
+KTV
+p:,c:0004cf,c:0104d0,c:0304cf,c:050001
+03ff:eeee0000:0c12:22b0:1:0:0
+PANON TV
+p:
+03ff:eeee0000:0f12:22b0:1:0:0
+TV Petrovec
+p:,c:0004cf,c:0104d0,c:0304cf,c:050001
+0411:eeee0000:0101:22b0:2:0:0
+RADIO BG 1
+p:ETV
+0411:eeee0000:0712:22b0:2:0:0
+RADIO BG 1
+p:ETV
+0411:eeee0000:0c12:22b0:2:0:0
+RADIO BG 1
+p:ETV
+0411:eeee0000:0f12:22b0:2:0:0
+RADIO BG 1
+p:ETV
+0412:eeee0000:0101:22b0:2:0:0
+RADIO BG 2
+p:ETV
+0412:eeee0000:0712:22b0:2:0:0
+RADIO BG 2
+p:ETV
+0412:eeee0000:0c12:22b0:2:0:0
+RADIO BG 2
+p:ETV
+0412:eeee0000:0f12:22b0:2:0:0
+RADIO BG 2
+p:ETV
+1612:eeee0000:d403:20bf:2:0:0
+HKR
+p:OiV
+0413:eeee0000:0101:22b0:2:0:0
+RADIO 202
+p:ETV
+0413:eeee0000:0712:22b0:2:0:0
+RADIO 202
+p:ETV
+0413:eeee0000:0c12:22b0:2:0:0
+RADIO 202
+p:ETV
+0413:eeee0000:0f12:22b0:2:0:0
+RADIO 202
+p:ETV
+1613:eeee0000:d403:20bf:2:0:0
+GOLD FM
+p:OiV
+1614:eeee0000:d403:20bf:2:0:0
+Radio Dalmacija
+p:OiV
+1615:eeee0000:d403:20bf:2:0:0
+Radio Banovina
+p:OiV,c:0314d4,C:069b
+0217:eeee0000:03f4:22d4:2:0:0
+Radio Nacional de España
+p:RTVE
+0118:eeee0000:000e:22d4:2:0:0
+RADIO MARCA
+p:RADIO MARCA
+0218:eeee0000:03f4:22d4:2:0:0
+Radio 5 RNE
+p:RTVE
+011a:eeee0000:000e:22d4:2:0:0
+CADENA 100
+p:CADENA 100
+011b:eeee0000:000e:22d4:2:0:0
+RADIO MARIA
+p:RADIO MARIA
+a02a:eeee0000:9c40:22d4:2:0:0
+Kiss FM
+p:Kiss FM
+a02b:eeee0000:9c40:22d4:2:0:0
+HIT FM
+p:HIT FM
+a02c:eeee0000:9c40:22d4:2:0:0
+esRadio
+p:esRadio
+a02d:eeee0000:9c40:22d4:2:0:0
+SER
+p:SER,c:0104b1,c:0304b1
+a02e:eeee0000:9c40:22d4:2:0:0
+LOS40
+p:LOS40
+a02f:eeee0000:9c40:22d4:2:0:0
+DIAL
+p:DIAL
+0132:eeee0000:000e:22d4:2:0:0
+BOM RADIO
+p:BOM RADIO
+0f41:eeee0000:0027:22d4:2:0:0
+COPE MAS
+p:Teledifusion Madrid
+0f42:eeee0000:0027:22d4:2:0:0
+MegaStar
+p:Teledifusion Madrid
+0f44:eeee0000:0027:22d4:2:0:0
+Kiss FM
+p:Kiss
+0f45:eeee0000:0027:22d4:2:0:0
+Hit FM
+p:Kiss
+9c45:eeee0000:9c40:22d4:2:0:0
+Radio Clasica HQ RNE
+p:RTVE
+9c46:eeee0000:9c40:22d4:2:0:0
+Radio3 HQ RNE
+p:RTVE
+9c47:eeee0000:9c40:22d4:2:0:0
+Radio Exterior RNE
+p:RTVE
+2754:eeee0000:1838:22d4:2:0:0
+ONDA MADRID
+p:RTVM
+0069:eeee0000:0012:22d4:2:0:0
+LOS40 Classic
+p:LOS40 Classic
+006a:eeee0000:0012:22d4:2:0:0
+LOS40 Urban
+p:LOS40 Urban
+006b:eeee0000:0012:22d4:2:0:0
+Radiolé
+p:Radiolé
+0082:eeee0000:0001:22c7:2:0:0
+Kossuth Radio
+p:Magyar Rádió
+0083:eeee0000:0001:22c7:2:0:0
+Petofi Radio
+p:Magyar Rádió
+0084:eeee0000:0001:22c7:2:0:0
+Bartok Radio
+p:Magyar Rádió
+0085:eeee0000:0001:22c7:2:0:0
+Danko Radio
+p:Magyar Rádió
+009c:eeee0000:0011:22d4:2:0:0
+ONDA CERO
+p:A3MEDIA
+009d:eeee0000:0011:22d4:2:0:0
+EUROPA FM
+p:A3MEDIA
+009e:eeee0000:0011:22d4:2:0:0
+MELODIA FM
+p:A3MEDIA
+00ab:eeee0000:0011:22d4:2:0:0
+COPE
+p:COPE
+00ac:eeee0000:0011:22d4:2:0:0
+Rock FM
+p:COPE
+00aa:eeee0000:0001:22c7:12:0:0
+DataService_A
+p:Antenna Hungária
+07db:eeee0000:0b02:22b0:22:0:0
+TV Info 24 plus
+p:ETV
+03e8:eeee0000:0120:00ff:22:0:0
+Szeged TV
+p:Szeged TV,c:000065,c:010066,c:020067,c:030065,c:050001
+0212:eeee0000:03f4:22d4:25:0:0
+tdp HD
+p:RTVE,c:000fa1,c:020fb4,c:030fa1,c:050001,c:100007,c:110fa2,c:130fa2
+0215:eeee0000:03f4:22d4:25:0:0
+24h HD
+p:RTVE
+0216:eeee0000:03f4:22d4:25:0:0
+La 1 HD
+p:RTVE,c:00012d,c:020066,c:03012d,c:050001,c:100007,c:11012e,c:13012e,f:1000
+021a:eeee0000:03f4:22d4:25:0:0
+La 2 HD
+p:RTVE,c:000191,c:0200ca,c:030191,c:050001,c:100007,c:110192,c:130192,f:1000
+a029:eeee0000:9c40:22d4:25:0:0
+DKISS
+p:DKISS
+9c41:eeee0000:9c40:22d4:25:0:0
+Clan HD
+p:RTVE,f:1000
+9c43:eeee0000:9c40:22d4:25:0:0
+tdp HD
+p:RTVE,c:000fa1,c:0207d3,c:030fa1,c:050001,c:100007,c:111004,c:131004,f:1000
+0064:eeee0000:0001:22c7:25:0:0
+M1 HD
+p:Magyar Televízió
+0065:eeee0000:0001:22c7:25:0:0
+M4 Sport HD
+p:Magyar Televízió
+0065:eeee0000:0012:22d4:25:0:0
+atreseries HD
+p:A3MEDIA,c:000065,c:020066,c:030065,c:050001,c:100007,c:110067,c:130067,f:1000
+0066:eeee0000:0012:22d4:25:0:0
+BeMad tv HD
+p:MEDIASET,f:1000
+0067:eeee0000:0012:22d4:25:0:0
+Realmadrid TV HD
+p:Realmadrid,c:00012d,c:01012f,c:03012d,c:050001,f:1000
+0068:eeee0000:0012:22d4:25:0:0
+TEN
+p:TEN
+0079:eeee0000:0001:22c7:25:0:0
+Duna HD
+p:Duna Televízió
+3b88:eeee0000:1838:22d4:25:0:0
+LA OTRA HD
+p:RTVM
+0095:eeee0000:000f:22d4:25:0:0
+antena3 HD
+p:ATRESMEDIA,c:000065,c:0200ca,c:030065,c:050001,c:100007,c:110067,c:130067,f:1000
+0097:eeee0000:000f:22d4:25:0:0
+laSexta HD
+p:ATRESMEDIA,c:00012d,c:020192,c:03012d,c:050001,c:100007,c:11012f,c:13012f,f:1000
+0099:eeee0000:000f:22d4:25:0:0
+neox HD
+p:ATRESMEDIA
+009a:eeee0000:000f:22d4:25:0:0
+nova HD
+p:ATRESMEDIA
+01a7:eeee0000:1838:22d4:25:0:0
+BOM
+p:Vocento
+01a9:eeee0000:1838:22d4:25:0:0
+Telemadrid HD
+p:RTVM,c:000263,c:010264,c:030263,c:050001
+00bc:eeee0000:0010:22d4:25:0:0
+FDF
+p:MEDIASET
+00bd:eeee0000:0010:22d4:25:0:0
+Divinity
+p:MEDIASET
+00be:eeee0000:0010:22d4:25:0:0
+Telecinco HD
+p:MEDIASET,c:0005dd,c:0105df,c:02044e,c:0305dd,c:050001,f:1000
+00bf:eeee0000:0010:22d4:25:0:0
+Cuatro HD
+p:MEDIASET,c:0006a5,c:0106a7,c:0204b2,c:0306a5,c:050001,f:1000
+00c8:eeee0000:0002:22c7:25:0:0
+M2 HD
+p:Magyar Televízió,c:0007d1,c:0107d2,c:0207d3,c:0307d1,c:050001
+00ca:eeee0000:0002:22c7:25:0:0
+M5 HD
+p:Magyar Televizio,c:0007e5,c:0107e6,c:0207d3,c:0307e5,c:050001
+9c43:eeee0000:9c40:22d4:31:0:0
+La 1 UHD
+p:RTVE,c:000fa1,c:030fa1,c:050007,c:100007,c:110fa2,c:130fa2,f:1000
+01a5:eeee0000:1838:22d4:31:0:0
+Telemadrid HDR
+p:RTVM,c:00032b,c:01032c,c:03032b,c:050007
 0001:00820000:0065:0001:1:0:0
 Current Time HD ch1
 p:
