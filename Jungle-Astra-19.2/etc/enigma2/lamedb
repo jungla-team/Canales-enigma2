@@ -7043,9 +7043,6 @@ p:Movistar+,C:0
 7891:00c00000:0414:0001:1:0:0
 BE MAD
 p:Movistar+,c:0000aa,c:010082,c:031432,C:0100,C:1810
-7892:00c00000:0414:0001:1:0:0
-EUROSPORT 7
-p:
 7893:00c00000:0414:0001:1:0:0
 EUROSPORT 8
 p:
@@ -13068,5 +13065,5 @@ p:OiV,c:000cdb,c:030cdb,c:050001,C:069b
 Testiraj Me!
 p:OiV,c:000cd1,c:030cd1,c:050006
 end
-# 248 transponders and 4107 services.
+# 248 transponders and 4106 services.
 # Created by E-Channelizer v24.0.0.712 - https://www.echannelizer.com
