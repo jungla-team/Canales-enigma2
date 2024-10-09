@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
-<!--Created by E-Channelizer v24.0.0.712 - https://www.echannelizer.com-->
+<!--Created by E-Channelizer v24.0.0.1005 - https://www.echannelizer.com-->
 <satellites>
   <sat name="Hispasat 30W-5/30W-6 (30,0 W)" flags="0" position="-300">
     <transponder frequency="10770000" symbol_rate="30000000" polarization="0" fec_inner="4" system="1" modulation="2" onid="6" tsid="6" />

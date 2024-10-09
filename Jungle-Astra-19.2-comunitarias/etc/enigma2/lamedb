@@ -5649,7 +5649,7 @@ p:SKY,C:0
 HISTORY Channel HD
 p:SKY,C:0,f:1000
 007d:00c00000:000b:0085:25:0:0
-CNBC HD
+CNBC
 p:SKY
 0087:00c00000:000b:0085:25:0:0
 Sky Cinema Premieren +24 HD
@@ -6048,7 +6048,7 @@ p:Movistar+,C:0,f:1000
 M+ DRAMA
 p:Movistar+,C:0,f:1000
 746f:00c00000:03f0:0001:1:0:0
-FOX
+STAR Channel
 p:FOXGE,C:0,f:1000
 7471:00c00000:03f0:0001:1:0:0
 M+ Documentales
@@ -6122,6 +6122,15 @@ p:Globecast
 769e:00c00000:03f4:0001:1:0:0
 LA SEXTA
 p:CANAL+,f:1000
+18ed:00c00000:03f4:0003:25:0:0
+CGTN HD
+p:TSA
+18ee:00c00000:03f4:0003:25:0:0
+CGTN Documentary
+p:TSA
+18ef:00c00000:03f4:0003:25:0:0
+CGTN Francais
+p:TSA
 18f0:00c00000:03f4:0003:1:0:0
 EXTREMADURA SAT
 p:TSA
@@ -6573,7 +6582,7 @@ p:Movistar+,f:1000
 M+DEPORTES5
 p:Digital+,f:1000
 77c9:00c00000:040a:0001:1:0:0
-TEST B 3
+M+DEPORTES8
 p:Movistar+,f:1000
 77ca:00c00000:040a:0001:100:0:0
 10979V SID 0x77ca
@@ -6990,13 +6999,13 @@ p:DVB-S QPSK 11126V 19.2Â°E,f:40
 M+ Suspense HD.
 p:Movistar+,C:0,f:1000
 7884:00c00000:0414:0001:1:0:0
-11126V SID 0x7884
+LALIGA TV HYPERMOTION 4
 p:DVB-S QPSK 11126V 19.2Â°E,f:40
 7884:00c00000:0414:0001:25:0:0
 DAZN LALIGA HD.
 p:DIGITAL+,c:0000a7,c:010076,c:0300a7,c:050001,C:0,f:1000
 7885:00c00000:0414:0001:1:0:0
-M+ VACACIONES
+M+ TERROR
 p:Movistar+,C:0
 7885:00c00000:0414:0001:25:0:0
 TCM HD
@@ -7224,7 +7233,7 @@ p:DIGITAL+,C:0
 GOL PLAY
 p:Movistar+,f:1000
 74a3:00c00000:041c:0001:25:0:0
-M+Supercopa HD
+M+ LALIGA TV 3 HD
 p:Movistar+,c:0000a9,c:010076,c:0300a9,c:050001,C:1810
 74a4:00c00000:041c:0001:1:0:0
 10758V SID 0x74a4
@@ -7308,7 +7317,7 @@ p:DVB-S QPSK 10788V 19.2Â°E
 ALQUILER XY
 p:TXY,C:0
 7696:00c00000:041e:0001:1:0:0
-M+ Suspense
+M+ HITCHCOCK
 p:Movistar+,C:0,f:1000
 7697:00c00000:041e:0001:1:0:0
 NICK JR
@@ -13068,5 +13077,5 @@ p:OiV,c:000cdb,c:030cdb,c:050001,C:069b
 Testiraj Me!
 p:OiV,c:000cd1,c:030cd1,c:050006
 end
-# 248 transponders and 4107 services.
-# Created by E-Channelizer v24.0.0.712 - https://www.echannelizer.com
+# 248 transponders and 4110 services.
+# Created by E-Channelizer v24.0.0.1005 - https://www.echannelizer.com
