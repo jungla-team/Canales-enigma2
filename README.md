@@ -25,9 +25,9 @@ Una vez realizada la busqueda de canales estos 3 satelites los combinamos en **5
 
 | **TIPO** | ultima actualizacion | numero de canales |
 | --- | --- | --- |
-| Satelite Astra | 14-11-2024 | 1310 canales |
-| Astra Comunitarias | 14-11-2024 | 325 canales |
-| Astra + Hotbird | 14-11-2024 | 2942 canales |
+| Satelite Astra | 16-12-2024 | 1310 canales |
+| Astra Comunitarias | 16-12-2024 | 325 canales |
+| Astra + Hotbird | 16-121-2024 | 2942 canales |
 | Astra + Hispasat | 14-11-2024 | 2067 canales |
 | Astra + hispasat + hotbird | 14-11-2024 | 3699 canales |
 
