@@ -1,5 +1,5 @@
 Package: enigma2-plugin-settings-jungle.astra
-Version: 14-01-2025
+Version: 27-01-2025
 Architecture: all
 Maintainer: jungle-team
 Depends: enigma2-plugin-systemplugins-serviceapp
